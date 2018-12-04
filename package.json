@@ -1,0 +1,26 @@
+{
+  "name": "napajs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadfaizan/napajs-demo.git"
+  },
+  "keywords": [
+    "multithreading",
+    "nodejs"
+  ],
+  "author": "Muhammad Faizan",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/muhammadfaizan/napajs-demo/issues"
+  },
+  "homepage": "https://github.com/muhammadfaizan/napajs-demo#readme",
+  "dependencies": {
+    "napajs": "^0.2.3"
+  }
+}
