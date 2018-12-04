@@ -1,5 +1,8 @@
 # NAPA.JS DEMO
 if you dont know what is napa.js, you can check it out [here](https://github.com/Microsoft/napajs)
+Also to know more about it, start from napa.js [wiki page](https://github.com/Microsoft/napajs/wiki/introduction)
+I got to this page after creating first example.
+
 ## There is a Sunnah: Start from the easiest task.
 
 So I am starting from the very basic example that they provided and try to learn from it.
@@ -17,5 +20,6 @@ I think the output is funnyy, as it logged *hello world* 4 times without linefee
 
 
 May be we will find answers when we fall deeper, I think they are returning data to main thread in a stream, and a linefeed is getting disrupted by another thread input.
-
 So it means its concurrent and we can expect such sequences.
+
+**Right now I am curious about how zone.execute works?**
