@@ -1,7 +1,10 @@
 # NAPA.JS DEMO
 
-## There is a sunnah: Start from the easiest task.
+## There is a Sunnah: Start from the easiest task.
+
 So I am starting from the very basic example that they provided and try to learn from it.
+
+Note: I am also leaving code comments, and you can find references there.
 
 ### Example-1
 #### Output
